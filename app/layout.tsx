@@ -28,6 +28,9 @@ export const metadata: Metadata = {
     "movers",
     "Cameroon tech",
   ],
+  verification: {
+    google: "LZEGCVmipNfrP7Aoy3owDyFh-n1v2urdekCi_wJOmDw",
+  },
   openGraph: {
     title: "Richkid Ltd — Empowering Africa's Service Economy",
     description:
